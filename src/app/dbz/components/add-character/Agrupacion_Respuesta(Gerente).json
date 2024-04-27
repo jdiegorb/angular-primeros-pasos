@@ -1,0 +1,38 @@
+[
+  {
+    "Menu": "Reportes BI",
+    "IdWorkspace": "2afa2d84-0d2a-44e9-8950-92fb3310632f",
+    "Reportes": [
+      {
+        "Reporte": "DB Gestión Retail",
+        "IdReport": "6ebc8f9e-1d7e-4a0d-9347-9825c8c55a5d"
+      },
+      {
+        "Reporte": "DB Seguimiento Campañas",
+        "IdReport": "b5d91b77-fa8b-4c7d-ae63-4e6d97661d31"
+      },
+      {
+        "Reporte": "DB Candidatos Propensos",
+        "IdReport": "f14f0dd3-5621-4742-a09b-df9e89fc4429"
+      },
+      {
+        "Reporte": "DB Seguros",
+        "IdReport": "0a9e3e0b-c239-40d7-a0ac-c78af2de9a81"
+      },
+      {
+        "Reporte": "DB Analisis KIA",
+        "IdReport": "d1349d6f-930b-49a0-bb5a-ecda7b67de82"
+      }
+    ]
+  },
+  {
+    "Menu": "Reportes Lealtad",
+    "IdWorkspace": "2afa2d84-0d2a-44e9-8950-92fb3310632f",
+    "Reportes": [
+      {
+        "Reporte": "DB Renovaciones KIA",
+        "IdReport": "af0a96c9-183c-4c5e-b3e7-2d5637ecf6a3"
+      }
+    ]
+  }
+]
